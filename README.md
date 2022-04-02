@@ -7,6 +7,7 @@ To Do App Link ----> https://meliksahaltuntas.github.io/To-Do-App/
  >Events
  
 -BOOTSTRAP5
+ >Responsive Design for tablets,phones
 -CSS3 
 -HTML5
 
